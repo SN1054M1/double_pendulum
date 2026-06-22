@@ -10,8 +10,6 @@ Double pendulum visualization project with one shared RK4 simulation core and tw
 - `dp_core.py`: shared physics and RK4 integrator.
 - `subplot_gif.py`: subplot pendulum animation and GIF export.
 - `pixel_mp4_mp.py`: pixel renderer and MP4 export.
-- `double.py`: legacy compatibility wrapper for `subplot_gif.py`.
-- `double_better.py`: legacy compatibility wrapper for `pixel_mp4_mp.py`.
 
 ## Requirements
 
